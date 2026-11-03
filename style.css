@@ -1,0 +1,14 @@
+*{box-sizing:border-box;margin:0;padding:0}
+:root{font-family:Arial,Helvetica,sans-serif;color:#e8eef8;background:#0b1120}
+body{min-height:100vh;display:grid;place-items:center;padding:32px 18px;line-height:1.7}
+.container{width:min(100%,760px)}
+.intro{padding:42px 0 30px}
+.tag{display:inline-block;color:#93c5fd;font-size:.75rem;font-weight:700;letter-spacing:.14em;margin-bottom:14px}
+h1{font-size:clamp(2.2rem,6vw,3.7rem);line-height:1.1;margin-bottom:18px}
+.intro p,.card p{color:#aab8cc;font-size:1.05rem}
+.card{background:#121e30;border:1px solid #263851;border-radius:14px;padding:28px}
+h2{font-size:1.45rem;margin-bottom:8px}
+ul{padding-left:23px;margin-top:16px}
+li{padding:5px 0;color:#d5e2f3}
+li::marker{color:#60a5fa}
+footer{color:#8292a9;font-size:.85rem;margin-top:24px}
