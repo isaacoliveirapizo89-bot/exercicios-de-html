@@ -1,8 +1,26 @@
-# Exercícios de HTML
+# 🌐 Exercícios de HTML
 
-Repositório criado durante meus estudos de **Desenvolvimento de Sistemas** para praticar os fundamentos de HTML e começar a organizar meus exercícios.
+Repositório criado durante meus estudos de **Desenvolvimento de Sistemas** para registrar exercícios e praticar os fundamentos do desenvolvimento web.
 
-## Estrutura
+## 📚 Conteúdos praticados
+
+- Estrutura básica de documentos HTML.
+- Títulos e parágrafos.
+- Listas ordenadas e não ordenadas.
+- Tags semânticas, como `header`, `main`, `section` e `footer`.
+- Inclusão de imagens e links.
+- Criação de tabelas.
+- Conexão de arquivos CSS externos.
+- Organização de arquivos de um projeto web.
+
+## 🛠️ Tecnologias
+
+- **HTML5**
+- **CSS3**
+
+## 📁 Estrutura inicial
+
+A estrutura pode variar conforme os exercícios adicionados. Uma organização inicial utilizada no projeto é:
 
 ```text
 exercicios-de-html/
@@ -11,24 +29,19 @@ exercicios-de-html/
 └── README.md
 ```
 
-## O que pratiquei
+## ▶️ Como visualizar
 
-- Estrutura básica de um documento HTML
-- Títulos e parágrafos
-- Listas não ordenadas (`ul` e `li`)
-- Uso de tags semânticas, como `main`, `header`, `section` e `footer`
-- Conexão de um arquivo CSS externo
-- Organização simples de arquivos
+1. Clone ou baixe este repositório.
+2. Abra a pasta do exercício desejado.
+3. Abra o arquivo HTML correspondente em um navegador.
 
-## Como visualizar
+## 🎯 Objetivo
 
-1. Abra o repositório no GitHub.
-2. Entre no arquivo `index.html`.
-3. Para visualizar a página no navegador, baixe os arquivos e abra o `index.html`.
+Reunir minhas práticas, acompanhar minha evolução e consolidar os fundamentos necessários para avançar no desenvolvimento web.
 
-## Tecnologias
+Novos exercícios poderão ser adicionados conforme o andamento dos estudos.
 
-- HTML5
-- CSS3
+## 👨‍💻 Autor
 
-Projeto de aprendizagem desenvolvido por **Isaac Oliveira Pizo**. Estou evoluindo aos poucos e adicionarei novos exercícios conforme avançar nos estudos.
+**Isaac Oliveira Pizo**  
+Estudante do Ensino Médio e do curso técnico em Desenvolvimento de Sistemas.
